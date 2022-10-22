@@ -1,0 +1,29 @@
+- Rev2 Todo
+    - How do we handle the enclosure contacting the board around the lens holder?
+        - We wanted it to contact to block light from the image sensor
+        - Options
+            - Use gasket instead of having aluminum protrusion contact board directly
+            - Don't have it contact, and block light around other entrances (motion sensor, USB receptacle)
+    
+    - Move bottom board mount closer to STM32 to give USB-C receptacle clearance to be inserted
+    
+    - Fix USB-C receptacle cutout
+    
+    - Add taps to board mount holes
+    
+    - Add hole+tap to backplate mount
+        - Use a bigger hole than Rev1?
+    
+    - Backplate: add protrusion to side of backplate mount to insert into side wall of enclosure
+    
+    - Backplate: add slot to sidewall for backplate protrusion to insert into
+    
+    - Move parts (resistors, capacitors) further away front mount points on front of board
+        - We want more safety margin near mount points
+    
+    
+    
+    √ Fill gap between backplate mount point and inside lens protrusion
+    
+    √ Backplate: make backplate mount point extend the entire length of the sidewall, to ease manufacturing
+
