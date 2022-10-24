@@ -5,6 +5,13 @@
     - Research dovetail gaps and tweak them if necessary
         - Probably necessary because currently the gap (across both sides, combined) is 0.3mm
     
+    - Add hole for LED
+    
+    - Update logo to use correct font
+    
+    - Compare cost with/without logo
+    
+    - Compare cost with/without fillet edges on frontplate
     
     
     √ Implement dovetail slot
