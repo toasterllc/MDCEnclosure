@@ -1,13 +1,13 @@
 - Rev2 Todo
     
-    - Fix USB-C receptacle cutout
-    
     - Implement dovetail slot
     
     - Implement backplate dovetail design
     
     - Make motion sensor hole a little smaller
     
+    
+    √ Fix USB-C receptacle cutout
     
     √ Clean up mount point parameter names (we only have 3 mount points now, so we shouldn't have 4 mount point params)
     
