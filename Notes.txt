@@ -1,11 +1,15 @@
 - Rev2 Todo
     
-    - Implement dovetail slot
-    
-    - Implement backplate dovetail design
-    
     - Make motion sensor hole a little smaller
     
+    - Research dovetail gaps and tweak them if necessary
+        - Probably necessary because currently the gap (across both sides, combined) is 0.3mm
+    
+    
+    
+    √ Implement dovetail slot
+    
+    √ Implement backplate dovetail design
     
     √ Fix USB-C receptacle cutout
     
