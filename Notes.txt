@@ -1,27 +1,45 @@
 - Rev2 Todo
-    - How do we handle the enclosure contacting the board around the lens holder?
-        - We wanted it to contact to block light from the image sensor
-        - Options
-            - Use gasket instead of having aluminum protrusion contact board directly
-            - Don't have it contact, and block light around other entrances (motion sensor, USB receptacle)
-    
-    - Move bottom board mount closer to STM32 to give USB-C receptacle clearance to be inserted
     
     - Fix USB-C receptacle cutout
     
-    - Add taps to board mount holes
+    - Implement dovetail slot
     
-    - Add hole+tap to backplate mount
+    - Implement backplate dovetail design
+    
+    - Lens hole: don't thread entire length, so that threads don't impact o-ring
+    
+    - Clean up mount point parameter names (we only have 3 mount points now, so we shouldn't have 4 mount point params)
+    
+    
+    
+    √ Drill mount point holes deeper
+    
+    √ Add slot to hold inside lens protrusion o-ring
+    
+    X Adjust position of USB-C receptacle cutout by looking at current prototype
+        X Keep existing design for now, reasses once we get CNC'd aluminum
+    
+    X Backplate: add protrusion to side of backplate mount to insert into side wall of enclosure
+        X No longer necessary due to backplate dovetail design
+    
+    X Backplate: add slot to sidewall for backplate protrusion to insert into
+        X No longer necessary due to backplate dovetail design
+    
+    X Add hole+tap to backplate mount
         - Use a bigger hole than Rev1?
+        X No longer necessary due to backplate dovetail design
     
-    - Backplate: add protrusion to side of backplate mount to insert into side wall of enclosure
+    √ How do we handle the enclosure contacting the board around the lens holder?
+        - We wanted it to contact to block light from the image sensor
+        - Options
+            - Use o-ring/gasket instead of having aluminum protrusion contact board directly
+            - Don't have it contact, and block light around other entrances (motion sensor, USB receptacle)
+        √ O-ring option seems like the easiest
     
-    - Backplate: add slot to sidewall for backplate protrusion to insert into
+    √ Add taps to board mount holes
     
-    - Move parts (resistors, capacitors) further away front mount points on front of board
-        - We want more safety margin near mount points
-    
-    
+    X Move bottom board mount closer to STM32 to give USB-C receptacle clearance to be inserted
+        X No longer necessary because we removed the bottom board mount
     
     √ Fill gap between backplate mount point and inside lens protrusion
     
