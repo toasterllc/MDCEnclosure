@@ -6,11 +6,12 @@
     
     - Implement backplate dovetail design
     
-    - Lens hole: don't thread entire length, so that threads don't impact o-ring
-    
-    - Clean up mount point parameter names (we only have 3 mount points now, so we shouldn't have 4 mount point params)
+    - Make motion sensor hole a little smaller
     
     
+    √ Clean up mount point parameter names (we only have 3 mount points now, so we shouldn't have 4 mount point params)
+    
+    √ Lens hole: don't thread entire length, so that threads don't impact o-ring
     
     √ Drill mount point holes deeper
     
