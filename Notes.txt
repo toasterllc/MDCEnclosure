@@ -1,5 +1,7 @@
 - Rev2 Todo
     
+    - Add fingernail indentation
+    
     - Make motion sensor hole a little smaller
     
     - Research dovetail gaps and tweak them if necessary
@@ -12,6 +14,8 @@
     - Compare cost with/without logo
     
     - Compare cost with/without fillet edges on frontplate
+    
+    
     
     
     √ Implement dovetail slot
