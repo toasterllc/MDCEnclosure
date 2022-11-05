@@ -1,0 +1,4 @@
+13.5 mm outside diameter
+    https://www.grainger.com/category/hardware/o-rings-and-o-ring-kits/o-rings?attrs=Nominal+Outside+Dia.%7C13.5+mm~~System+of+Measurement%7CMetric&filters=attrs
+    thickness = 1mm
+

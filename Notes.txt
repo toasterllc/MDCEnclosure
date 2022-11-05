@@ -1,5 +1,12 @@
 - Rev2 Todo
     
+    - Update mount hole positions (they moved a bit! 2022-11-3)
+        - Overlay PCB to verify
+    
+    - Verify lens hole is still centered wrt image sensor on board
+    
+    - Verify that lenses can screw in enough to focus, and won't stick out too much
+    
     - Add fingernail indentation
     
     - Make motion sensor hole a little smaller
@@ -15,8 +22,6 @@
     
     - Compare cost with/without fillet edges on frontplate
     
-    - Make sure mount holes match board mount holes
-        - Overlay PCB to verify
     
     
     

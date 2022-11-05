@@ -1,0 +1,11 @@
+515-1003F
+    Diameter: 1.07 mm
+    Length:   6.02 mm
+
+515-1027F
+    Diameter: 1.68 mm
+    Length:   8.26 mm
+
+515-1016F
+    Diameter: 0.94 mm
+    Length:   4.14 mm
