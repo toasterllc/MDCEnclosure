@@ -1,9 +1,7 @@
 - Rev2 Todo
     
-    - Update mount hole positions (they moved a bit! 2022-11-3)
-        - Overlay PCB to verify
-    
-    - Verify lens hole is still centered wrt image sensor on board
+    - Adjust LED hole size
+        - Are we going to use a light pipe?
     
     - Verify that lenses can screw in enough to focus, and won't stick out too much
     
@@ -14,8 +12,6 @@
     - Research dovetail gaps and tweak them if necessary
         - Probably necessary because currently the gap (across both sides, combined) is 0.3mm
     
-    - Add hole for LED
-    
     - Update logo to use correct font
     
     - Compare cost with/without logo
@@ -24,6 +20,12 @@
     
     
     
+    √ Add hole for LED
+    
+    √ Verify lens hole is still centered wrt image sensor on board
+    
+    √ Update mount hole positions (they moved a bit! 2022-11-3)
+        √ Overlay PCB to verify
     
     √ Implement dovetail slot
     
