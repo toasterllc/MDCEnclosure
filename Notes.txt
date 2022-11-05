@@ -7,13 +7,17 @@
     
     - Use light pipe if LEDs don't look good without one
 
+
+
 - Rev2 Todo
     
     - Update LED hole position (based on PCB)
     
-    - Update logo to use correct font
     
     
+    
+    √ Update logo to use correct font
+        √ Using CriqueGrotesk-Medium
     
     √ Make backplate gap smaller
         √ Parameterized -- 'BackplateGap'
