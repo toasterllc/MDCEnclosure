@@ -11,14 +11,15 @@
     
     - Update LED hole position (based on PCB)
     
-    - Add fingernail indentation
-    
-    - Research dovetail gaps and tweak them if necessary
-        - Probably necessary because currently the gap (across both sides, combined) is 0.3mm
-    
     - Update logo to use correct font
     
     
+    
+    √ Make backplate gap smaller
+        √ Parameterized -- 'BackplateGap'
+        √ Made it 0.075mm for now
+    
+    √ Add fingernail indentation
     
     √ Make motion sensor hole a little smaller
         √ We were using the wrong diameter -- the base of the motion sensor is 9.3mm, but we were using 10.4mm
