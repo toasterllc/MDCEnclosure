@@ -1,24 +1,30 @@
+- Future
+
+    - Cost optimize
+        - Compare cost with/without logo
+        - Compare cost with/without fillet edges on frontplate
+        - Would standoffs be cheaper to mount of PCB? We still need the interior lens protrusion though...
+    
+    - Use light pipe if LEDs don't look good without one
+
 - Rev2 Todo
     
-    - Adjust LED hole size
-        - Are we going to use a light pipe?
-    
-    - Verify that lenses can screw in enough to focus, and won't stick out too much
+    - Update LED hole position (based on PCB)
     
     - Add fingernail indentation
-    
-    - Make motion sensor hole a little smaller
     
     - Research dovetail gaps and tweak them if necessary
         - Probably necessary because currently the gap (across both sides, combined) is 0.3mm
     
     - Update logo to use correct font
     
-    - Compare cost with/without logo
-    
-    - Compare cost with/without fillet edges on frontplate
     
     
+    √ Make motion sensor hole a little smaller
+        √ We were using the wrong diameter -- the base of the motion sensor is 9.3mm, but we were using 10.4mm
+    
+    √ Verify that lenses can screw in enough to focus, and won't stick out too much
+        Confirmed -- LensNotes.txt math is still correct for enclosure
     
     √ Add hole for LED
     
