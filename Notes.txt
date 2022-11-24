@@ -9,12 +9,16 @@
 
 
 
+- Rev3 Todo
+
+    - Ensure that region of the lens socket that doesn't have threads doesn't form a lip that blocks the lens from screwing in
+
+
+
+
 - Rev2 Todo
     
-    - Update LED hole position (based on PCB)
-    
-    
-    
+    √ Update LED hole position (based on PCB)
     
     √ Update logo to use correct font
         √ Using CriqueGrotesk-Medium
