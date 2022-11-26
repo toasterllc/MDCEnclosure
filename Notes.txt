@@ -12,6 +12,9 @@
 - Rev3 Todo
 
     - Ensure that region of the lens socket that doesn't have threads doesn't form a lip that blocks the lens from screwing in
+    
+    - Switch tactile switch height 0.65 -> 0.60, since 0.60 seems more common
+        - We switched the MDCBoard's tactile switch PN to use one that's 0.60
 
 
 
