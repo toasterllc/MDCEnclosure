@@ -1,0 +1,5 @@
+Finish Color: dark gray
+Finish Texture: very smooth
+Finish Sheen: as matte as possible
+
+As an example, the Apple MacBook is the finish we'd like. See Finish-Example.jpg.
